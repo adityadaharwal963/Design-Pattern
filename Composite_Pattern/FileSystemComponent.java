@@ -20,7 +20,7 @@ public class FileSystemComponent {
     }
 
     public void remove(int idx) {
-        throw new UnsupportedOperationException("Bhak sale");
+        throw new UnsupportedOperationException("Cannot supported remove");
     }
 
     public void display() {
