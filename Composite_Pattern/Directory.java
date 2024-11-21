@@ -27,6 +27,7 @@ public class Directory extends FileSystemComponent{
 
     @Override
     public void display() {
+        System.out.println("Directory: "+ this.getName());
         for(FileSystemComponent component : children) {
             System.out.println(component.getName());
         }

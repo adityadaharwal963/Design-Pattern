@@ -15,11 +15,8 @@ public class Main {
         folder1.add(file2);
         folder1.add(file3);
         /* display file sturcture */
-        System.out.println("displaying root");
         root.display();
-        System.out.println("displaying folder 1");
         folder1.display();
-        System.out.println("displaying folder 2");
         folder2.display();
 
     }

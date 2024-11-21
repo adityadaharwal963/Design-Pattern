@@ -10,7 +10,7 @@ public class MonsterRegistery {
         map.put(key, m);
     }
 
-    Monster creaMonster(String key){
+    Monster createMonster(String key){
         Monster m = map.get(key);
 
         if(m==null){

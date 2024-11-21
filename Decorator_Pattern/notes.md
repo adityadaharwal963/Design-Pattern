@@ -1,4 +1,9 @@
-intent :
- the decorator pattern atttaches additional responsibility to an <b>object dynamically</b>. Decorators provide a flexible alternative to subclassing for extending functionality.
+Intent :
+
+ The decorator pattern atttaches additional responsibility to an <b>object dynamically</b>. Decorators provide a flexible alternative to subclassing for extending functionality.
  
-<img src='./UML.png'>UML</img>
+- give addition functions to object during run time
+- single reference to object
+
+UML :
+<img src='./UML.png'></img>

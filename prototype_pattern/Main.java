@@ -15,7 +15,7 @@ public class Main {
         monsterRegistery.registeryMonster("watermonster", watermonster);
 
         // clone and display
-        Monster airmont = monsterRegistery.creaMonster("airmonster");
+        Monster airmont = monsterRegistery.createMonster("airmonster");
         airmont.display();
     }
 }

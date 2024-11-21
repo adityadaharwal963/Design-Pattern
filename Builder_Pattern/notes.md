@@ -10,5 +10,8 @@ refernece to this example:
 
 advanatge :
 
+UML :
+ <img src='./structure.png'></img>
 
- <img src='./structure.png'>UML</img>
+Example :
+<img src='./UML.png'></img>
